@@ -8,7 +8,7 @@ A simple project to prepare data and build a predictive model for housing prices
 - (Optional) `rf_pipeline.joblib` — The saved model after training
 
 # Quickstart
-1. Open `california_housing_notebook.ipynb` in Google Colab.
+1. Open `notebook.ipynb` in Repo.
 2. Run the cells in order (the data is already in the repo, so you don't need to upload it manually).
 3. Results and explanations are provided in Markdown fields within the notebook.
 
